@@ -1,4 +1,13 @@
-### Hi there 👋
+### ⚡️ Ryan Merrill
+
+I like my friends old, music loud, and work tough.
+
+That mindset comes from a midwestern work ethic forged near the abandoned steel yards of the Great Lakes. I grew up on a steady diet of underdog sports teams, brutal winters and minimalist writers—distilling in me a utilitarian approach to design and a desire to celebrate victories of any size.
+
+- 🧙🏼‍♂️ I'm a Senior UX Engineering manager at Microsoft creating design systems and component libraries with web components.
+- 👨🏽‍💻 I contribute to [FAST](https://github.com/microsoft/fast) and [Fluent UI](https://github.com/microsoft/fluentui).
+- 🧰 I use `html`, `css`, `python`, and `typescript` to hack on the web and experiment with generative AI.
+- 🌎 Visit [my personal site](https://ryan.cm/), or where I'm learning AI in public at [Spellbooks AI](https://spellbooks.ai/).
 
 <!--
 **procload/procload** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
